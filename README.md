@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Cam.
 
-<!--
-**cam-benfield/cam-benfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: they/them/theirs
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Rails Projects to change the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning JS and how to implement it best.
+
+- 💬 Ask me about tech teaching processes, Rails, Ruby, and really anything you see around here.
+
+- 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/smbenfield/)
+
+- ⚡ Fun fact: I work in Mental Health EHR software and I love the impact I have on people reaching out for help.
