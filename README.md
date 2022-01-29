@@ -11,3 +11,5 @@
 - 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/smbenfield/)
 
 - ⚡ Fun fact: I work in Mental Health EHR software and I love the impact I have on people reaching out for help.
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cam-benfield&count_private=true&theme=nord"></p>
